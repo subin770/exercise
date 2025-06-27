@@ -9,6 +9,7 @@ public class AAA {
 		System.out.println("hotfix2");
 		System.out.println("hotfix1");
 		System.out.println("at home");
+		System.out.println("집에서 해보았습니다.");
 	}
 
 }
