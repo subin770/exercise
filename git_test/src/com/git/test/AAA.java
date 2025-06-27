@@ -3,11 +3,12 @@ package com.git.test;
 public class AAA {
 
 	public static void main(String[] args) {
-		System.out.println("½ÃÀÛ");
-		System.out.println("ÀÎµ¦½Ì");
-		System.out.println("Ä¿¹Ô");
+		System.out.println("Â½ÃƒÃ€Ã›");
+		System.out.println("Ã€ÃŽÂµÂ¦Â½ÃŒ");
+		System.out.println("Ã„Â¿Â¹Ã”");
 		System.out.println("hotfix2");
 		System.out.println("hotfix1");
+		System.out.println("at home");
 	}
 
 }
