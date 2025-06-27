@@ -7,6 +7,7 @@ public class AAA {
 		System.out.println("ÀÎµ¦½Ì");
 		System.out.println("Ä¿¹Ô");
 		System.out.println("hotfix2");
+		System.out.println("hotfix1");
 	}
 
 }
